@@ -29,9 +29,9 @@ Soy una desarrolladora apasionada por la tecnología, enfocada en crear solucion
 ###  Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crisbel-Revete&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisbelRevete&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisbel_Revete&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisbelRevete&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 
